@@ -14,4 +14,6 @@ div {
     color: white;
     font-size: 25px;
     text-align: justify;
+    width: 85%;
+    margin: auto;
 }
